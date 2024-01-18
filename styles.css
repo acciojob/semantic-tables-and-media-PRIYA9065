@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+table, th, td{
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 80vw;
+	padding: 5px;
+	font-weight 400;
+}
+
+td{
+	text-align: center;
+}
+video{
+	width: 500px;
+	height: 500px;
+}
+
+audio{
+	margin-top: 50px; 
+}
